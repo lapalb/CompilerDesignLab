@@ -13,7 +13,7 @@
 2. Design a syntax directed translator for G that will perform infix-postfix translation. 
 3. Design a mechanism to generate three address codes for an statement/expression belonging to L(G).
 
+
 ### Assignemnet 8.2
 ---
-ASSIGNMENT 8
 Design a syntax directed translator that will generate intermediate code for switch-case construct in C language.
