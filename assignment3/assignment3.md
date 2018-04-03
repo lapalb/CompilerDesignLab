@@ -1,6 +1,6 @@
 ### Assignemnt 3
 1. Design a machine that will recognize numbers between 0-999. For example: "Two hundred thirty nine" is a correct form of 239 in words.  It should also detect an incorrect input "Twelve hundred twenty two."
-
+ 
 1. Design an application using FLEX and BISON that will do the following
    - [ ] check the correctness of a Boolean expression,
    - [ ] express it in standard Sum of Product form, and
