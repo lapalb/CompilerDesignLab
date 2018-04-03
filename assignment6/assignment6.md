@@ -47,4 +47,4 @@ G: atom
 ---
 
 1. Write a C program to **eliminate left recursion and left factoring** in a given grammar.
-1. Write a C program to **compute FIRST and FOLLOW sets for a given grammar, and check whether the grammar is LL(1).**
+1. Write a C program to **compute FIRST and FOLLOW sets for a given grammar, and check whether the grammar is LL(1).** 
