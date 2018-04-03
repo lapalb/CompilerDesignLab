@@ -9,5 +9,5 @@ Example:
 ```
 type={void, int, char, float}(keywords)
 id1, id2, func1, param1, param2 are identifiers.
-Token separators or punctuations are , ; ( )
+Token separators or punctuations are , ; ( ) 
 ```
