@@ -1,4 +1,5 @@
-1. Design a flex-bison application that will check the correctness of the declaration of variables and functions in C language.
+### Assignment 5
+1. Design a **flex-bison application** that will check the **correctness of the declaration of variables and functions** in C language.
 Example:
 type id1,id2;
 type func1(type param1,type param2);
