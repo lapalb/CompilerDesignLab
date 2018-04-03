@@ -1,6 +1,8 @@
-Assignment 7
-Design an LR(0) parser that will check the validity of proposition logic expressions and generate its truth table. Also check satisfiablility/tautology/fallacy of the expression.
+### Assignment 7
+---
 
+Design an LR(0) parser that will check the validity of proposition logic expressions and generate its truth table. Also check satisfiablility/tautology/fallacy of the expression.
+```
 Valid Tokens
 1. A-Z (excluding T and F), a-z (excluding t and f)  are tokens of length 1 represent Boolean variables
    whole values are either T/t for true or F/f for false.
@@ -33,3 +35,4 @@ Errors Handled by this system
 (v) Operand missing for an unary operator.
 (vi) Consecutive Binary Operators -> operand missing.
 (vii) Missing of an '(' for a ')'.
+```
