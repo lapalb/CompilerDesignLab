@@ -8,7 +8,7 @@ Valid Tokens
    whole values are either T/t for true or F/f for false.
 2. T/t and F/f are constants representing true and false respectively.
 3. Operator /\ stands for 'AND'.
-4. Operator \/ stands for 'OR'.
+4. Operator \/ stands for 'OR'. 
 5. Operator ~ stands for 'NOT'.
 6. Operator -> stands for 'implication'.
 7. Operator <-> stands for 'if and only if'.
