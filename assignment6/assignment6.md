@@ -43,7 +43,7 @@ N: G
 G: ( E )
 G: atom
 ```
-### Assignment 6.1 
+### Assignment 6.2 
 ---
 
 1. Write a C program to **eliminate left recursion and left factoring** in a given grammar.
