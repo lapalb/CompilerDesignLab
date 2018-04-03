@@ -1,4 +1,4 @@
-### Assignment 8
+ ### Assignment 8
 ---
 >Considering the following grammar G
 1. S -> E$
