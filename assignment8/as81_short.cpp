@@ -85,7 +85,7 @@ void explore()
         printf("\t%c := %s%c%s\t\t",str[k[i].pos],left,k[i].op,right);
                 for(j=0;j<strlen(str);j++)
                         if(str[j]!='$')
-                                printf("%c",str[j]);
+                                printf("%c",str[j]); 
                 printf("\n");
                 i++;
         }
