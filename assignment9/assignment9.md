@@ -4,7 +4,8 @@ Implementation of the labeling algorithm to generate assembly language code from
 ---
 
 ```
-Input: Intermediate code in three-address code format, RSTACK a stack of r registers (R0,R1,...,Rr-1), TSTACK a stack of temporary memory locations (T0,T1,...,).
+Input: Intermediate code in three-address code format, RSTACK a stack of r registers (R0,R1,...,Rr-1),
+TSTACK a stack of temporary memory locations (T0,T1,...,).
        Instruction set 
       MOV A,B  ; atleast one of A and B should be register or memory
       ADD A,B  ; A=A+B, A and B are registers 
