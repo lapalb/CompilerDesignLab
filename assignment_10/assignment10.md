@@ -66,5 +66,5 @@ advantage.
    for (int i = 0; i < n; i++) {
        x = y + z;
       a[i] = 6 * i + x * x;
-   }
+   } 
 ```
