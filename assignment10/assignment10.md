@@ -1,3 +1,8 @@
+### Assignment 10
+
+---
+
+```
 1. Write a program to convert a number in decimal to its binary equivalent. Rewrite the program with bitwise operators. Compare the performance
    of each version.
 2  Optimize the following code fragment by avoiding if-else statement
@@ -42,4 +47,4 @@
        x = y + z;
       a[i] = 6 * i + x * x;
    }
-
+```
