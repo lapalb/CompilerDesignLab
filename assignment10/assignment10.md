@@ -3,8 +3,8 @@
 ---
 
 ```
-1. Write a program to convert a number in decimal to its binary equivalent. Rewrite the program with bitwise operators. Compare the performance
-   of each version.
+1. Write a program to convert a number in decimal to its binary equivalent. Rewrite the program with bitwise operators. 
+Compare the performance of each version.
 2  Optimize the following code fragment by avoiding if-else statement
    for(i=0;i<1000;i++)
      { 
@@ -19,8 +19,8 @@
      {
        total[i]=X[i]+Y[i];     
      }
-   Compare the performance of the loop unrolled version with the naive version. What will be the effect if we go on increasing the 
-   loop unrolling factor.
+   Compare the performance of the loop unrolled version with the naive version. What will be the effect 
+   if we go on increasing theloop unrolling factor.
 
 4. Implemention matrix multiplication using loop tiling with a blocking factor 4. Consider A and B as 16 x 16 matrices and multpliply them
  to obtain the matrix C using loop tiling. Compare the basic and loop tiled approaches with respect to performance.
